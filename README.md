@@ -5,6 +5,11 @@
 # Sample report
 ### dashboard overview
 <img width="1621" height="907" alt="image" src="https://github.com/user-attachments/assets/c34c6acd-7930-454f-be22-e3fd0452fed0" />
+### Sales & Market Presence (Commercial Metrics)
+#### Total Revenue: The platform achieved a total sales volume of $13.59M.
+#### Inventory & Volume: A total of 113K products were sold out of a catalog of 33K unique SKUs, indicating a healthy turnover rate.
+#### Category Leaders: Bed_bath_table is the top-performing category (~11K units). Health_beauty (~10K units) and Sports_leisure (~9K units) follow closely.
+#### Growth Trend: Data shows a significant upward trajectory from 2017 through mid-2018, suggesting the platform was in a Growth Stage of its lifecycle.
 
 ### delivery performance
 <img width="1621" height="914" alt="image" src="https://github.com/user-attachments/assets/78e3dc85-b5f0-4b55-9455-f91d9abaf477" />
